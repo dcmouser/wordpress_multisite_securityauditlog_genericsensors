@@ -16,7 +16,6 @@ Tags: Wordpress Security Audit Log, Wordpress Security plugin, event log wordpre
 Requires at least: 4
 Tested up to: 4.8.1
 Stable tag: 1.1.4
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YWVUDU9RTFXX4
 Depends on : WP Security Audit Log
 
 An Addon to the WP Security Audit Log plugin to log generic events
